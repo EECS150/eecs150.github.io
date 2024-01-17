@@ -1,1 +1,1 @@
-Sitemap: http://inst.eecs.berkeley.edu/~eecs151/sp23/sitemap.xml
+Sitemap: https://eecs150.github.io//sitemap.xml
