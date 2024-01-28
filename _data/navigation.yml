@@ -1,0 +1,15 @@
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+main:
+  - title: "Home"
+    url: /
+  - title: "Outline"
+    url: /#course-outline
+  - title: "Resources"
+    url: /resources/
+  - title: "Ed"
+    url: https://edstem.org/us/join/P9DZPV 
+  - title: "Gradescope"
+    url: https://www.gradescope.com/courses/714080
+  - title: "Archives"
+    url: http://inst.eecs.berkeley.edu/~eecs151/archives
