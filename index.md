@@ -23,22 +23,22 @@ title:  Introduction to Digital Design and Integrated Circuits
  |    | 2/7  | Finite State Machines 1 ([slides](./files/lec7-CL2-FSM1.pdf)) ([recording](https://www.youtube.com/watch?v=p4mzfNVA3YQ&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=6))| | |  | |
  | 5  | 2/12 | Finite State Machines 2 ([slides](./files/lec8-FSM2.pdf)) | | Lab 4 | [Lab 4](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab4) | Homework 5 |
  |    | 2/14 | CMOS Circuits 1 ([slides](./files/lec9-CMOS1.pdf)) | | |  | |
- | 6  | 2/19 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) | | Lab 5 | | Homework 6 |
- |    | 2/21 | Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) | | | | |
- | 7  | 2/26 | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | Lab 6 | Lab 5 | Homework 7 |
- |    | 2/28 | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | | | |
+ | 6  | 2/19 | President's Day | | Lab 5 | | Homework 6 |
+ |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) | | | | |
+ | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) | | Lab 6 | Lab 5 | Homework 7 |
+ |    | 2/28 | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | | |
  | 8  | 3/4  | Midterm Review ([slides](./files/lec14-review.pdf)) | | | Lab 6 | |
  |   | 3/6  | No Class - Midterm 6-9PM | | | | |
- | 9  | 3/11 | RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf))| | ASIC Project | FPGA Project | Homework 8 |
- |   | 3/13 | RISC-V Part 3 | | | | |
- | 10 | 3/18 | Power and Energy ([slides](./files/lec22-energy.pdf))| | | | Homework 9 |
- |    | 3/20 | Memory Blocks 1 ([slides](./files/lec17-mem1.pdf)) | | | | |
+ | 9  | 3/11 | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | ASIC Project | FPGA Project | Homework 8 |
+ |   | 3/13 | RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf)) | | | | |
+ | 10 | 3/18 | RISC-V Part 3  | | | | Homework 9 |
+ |    | 3/20 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | | | |
  | 11 | 3/25 | Spring Recess | |  | | |
  |    | 3/27 | Spring Recess | | | | |
- | 12 | 4/1 | Memory Blocks 2 ([slides](./files/lec19-mem2.pdf))| | | | Homework 10 |
- |   | 4/3  | Parallelism ([slides](./files/lec20-par.pdf))| | | | |
- | 13 | 4/8  | List Processor Example Design ([slides](./files/lec21-listproc.pdf)) | | | | Homework 11 |
- |    | 4/10 | Guest Speaker TBA | | | | |
+ | 12 | 4/1 |  Memory Blocks 1 ([slides](./files/lec17-mem1.pdf))| | | | Homework 10 |
+ |   | 4/3  |  Memory Blocks 2 ([slides](./files/lec19-mem2.pdf)) | | | | |
+ | 13 | 4/8  | Parallelism ([slides](./files/lec20-par.pdf)) | | | | Homework 11 |
+ |    | 4/10 | List Processor Example Design ([slides](./files/lec21-listproc.pdf)) | | | | |
  | 14 | 4/15 | Adders ([slides](./files/lec23-adders.pdf)) | | | | Homework 12 |
  |    | 4/17 | Multipliers & Shifters ([slides](./files/lec24-mult-shift.pdf))  | | | | |
  | 15 | 4/22 | Clock and Power Distribution ([slides](./files/lec25-clk-pkg-pwr.pdf)) | | | | Homework 13 |
