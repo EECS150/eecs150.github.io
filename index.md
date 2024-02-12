@@ -23,7 +23,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |    | 2/7  | Finite State Machines 1 ([slides](./files/lec7-CL2-FSM1.pdf)) ([recording](https://www.youtube.com/watch?v=p4mzfNVA3YQ&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=6))| | |  | |
  | 5  | 2/12 | Finite State Machines 2 ([slides](./files/lec8-FSM2.pdf)) | | Lab 4 | [Lab 4](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab4) | Homework 5 |
  |    | 2/14 | CMOS Circuits 1 ([slides](./files/lec9-CMOS1.pdf)) | | |  | |
- | 6  | 2/19 | President's Day | | Lab 5 | | Homework 6 |
+ | 6  | 2/19 | Presidents' Day | | Lab 5 | | Homework 6 |
  |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) | | | | |
  | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) | | Lab 6 | Lab 5 | Homework 7 |
  |    | 2/28 | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | | |
