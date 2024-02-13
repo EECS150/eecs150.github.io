@@ -21,7 +21,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |   | 1/31 | FPGA Architecture ([slides](./files/lec5-FPGA.pdf)) ([recording](https://www.youtube.com/watch?v=1tg1A2J1OFA&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=4)) | | | | |
  | 4  | 2/5  | Combinational Logic & Boolean Algebra ([slides](./files/lec6-CL.pdf)) ([recording](https://www.youtube.com/watch?v=6guH6xrGE6o&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=5))| [Discussion 4 (slides)](./files/discussion_sp24/Discussion4.pdf) ([worksheet](./files/discussion_sp24/disc4worksheet.pdf)) ([solutions](./files/discussion_sp24/disc4_solutions.pdf)) | [Lab 3](https://github.com/EECS150/asic-labs-sp24/tree/main/lab3) | [Lab 3](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab3) | [Homework 4](./files/hw_sp24/sp24_hw4_v3.pdf) |
  |    | 2/7  | Finite State Machines 1 ([slides](./files/lec7-CL2-FSM1.pdf)) ([recording](https://www.youtube.com/watch?v=p4mzfNVA3YQ&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=6))| | |  | |
- | 5  | 2/12 | Finite State Machines 2 ([slides](./files/lec8-FSM2.pdf)) | | Lab 4 | [Lab 4](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab4) | Homework 5 |
+ | 5  | 2/12 | Finite State Machines 2 ([slides](./files/lec8-FSM2.pdf)) | | [Lab 4](https://github.com/EECS150/asic-labs-sp24/tree/main/lab4) | [Lab 4](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab4) | Homework 5 |
  |    | 2/14 | CMOS Circuits 1 ([slides](./files/lec9-CMOS1.pdf)) | | |  | |
  | 6  | 2/19 | Presidents' Day | | Lab 5 | | Homework 6 |
  |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) | | | | |
