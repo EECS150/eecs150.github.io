@@ -27,10 +27,11 @@ title:  Introduction to Digital Design and Integrated Circuits
  |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) | | | | |
  | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) | | Lab 6 | Lab 5 | Homework 7 |
  |    | 2/28 | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | | |
- | 8  | 3/4  | Midterm Review ([slides](./files/lec14-review.pdf)) | | | Lab 6 | |
- |   | 3/6  | No Class - Midterm 6-9PM | | | | |
- | 9  | 3/11 | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | ASIC Project | FPGA Project | Homework 8 |
- |   | 3/13 | RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf)) | | | | |
+ | 8  | 3/4  | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | | Lab 6 | |
+ |   | 3/6  | RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf)) | | | | |
+ | 9  | 3/11 | Midterm Review ([slides](./files/lec14-review.pdf)) | | ASIC Project | FPGA Project | Homework 8 |
+ |   | 3/12 | Midterm 7-10pm | | | | |
+ |   | 3/13 | TBD            | | | | |
  | 10 | 3/18 | RISC-V Part 3  | | | | Homework 9 |
  |    | 3/20 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | | | |
  | 11 | 3/25 | Spring Recess | |  | | |
