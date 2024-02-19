@@ -70,7 +70,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |               | Wed       | 4:30 pm - 6:30 pm   | Cory 111/117 | Dhruv's OH |
  |               | Thurs     | 9:00 am - 11:00 am  | Cory 111/117 | Daniel Endraws |
  |               | Thurs     | 4:00 pm - 6:00 pm   | Cory 111/117 | Kevin Anderson |
- |               | Fri       | 9:00 am - 10 am     | Cory 111/117 | Rohit Kanagal  |
+ |               | Tu        | 7:00 pm - 8:00 pm     | Cory 111/117 | Rohit Kanagal  |
  |               | Fri       | 11:00 am - 12:00 pm | Cory 111/117 | Justin Kalloor |
  |               | Fri       | 12:00 pm - 2:00 pm  | Cory 111/117 | Reuben Thomas |
 
