@@ -11,7 +11,7 @@ title:  Introduction to Digital Design and Integrated Circuits
 
 ### [Lecture Playlist](https://www.youtube.com/playlist?list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM)
 ### [NEW Lab/OH Queue Form](https://151-queue.vercel.app/)
-### [Lab/OH Queue Form](https://forms.gle/NHcuqonSwAQALuea7)
+##### [Lab/OH Queue Form](https://forms.gle/NHcuqonSwAQALuea7)
 
  | Week | Date | Lecture Topic | Discussion | ASIC Lab | FPGA Lab | Homework |
  | ---  | ---  | ---           | ---        | ---      | ---      | ---      |
