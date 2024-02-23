@@ -10,20 +10,21 @@ title:  Introduction to Digital Design and Integrated Circuits
 - Please submit completed homework via [Gradescope](https://www.gradescope.com/courses/714080).
 
 ### [Lecture Playlist](https://www.youtube.com/playlist?list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM)
-### [Lab/OH Queue Form](https://forms.gle/NHcuqonSwAQALuea7)
+### [NEW Lab/OH Queue Form](https://151-queue.vercel.app/)
+##### [Lab/OH Queue Form](https://forms.gle/NHcuqonSwAQALuea7)
 
  | Week | Date | Lecture Topic | Discussion | ASIC Lab | FPGA Lab | Homework |
  | ---  | ---  | ---           | ---        | ---      | ---      | ---      |
  | 1  | 1/17 | Class Organization & Introduction to Course Content ([slides](./files/lec1-intro.pdf)) ([recording]( https://drive.google.com/file/d/1sKchXxILDCqcwwVqbPjQgiYwcleyVbGm/view?usp=sharing)) | [Discussion 1 (slides)](./files/discussion1_slides.pdf) ([worksheet](./files/discussion1.pdf)) | No Lab | No Lab | [Homework 1](./files/hw_sp24/hw1.pdf) ([Solution](./files/hw_sp24/hw1_sol.pdf)) |
- | 2  | 1/22 | Design Alternatives & ASIC Flow([slides](./files/lec2-design.pdf)) ([recording]( https://www.youtube.com/watch?v=kYDoNwnFNHY&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=1)) | [Discussion 2 (slides)](./files/discussion_sp24/Discussion2.pdf) ([worksheet](./files/discussion_sp24/disc2.pdf)) ([solutions](./files/discussion_sp24/disc2_solutions.pdf)) | [Lab 1](https://github.com/EECS150/asic-labs-sp24/tree/main)  | [Lab 1](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab1) | [Homework 2](./files/sp24_hw2.pdf) |
+ | 2  | 1/22 | Design Alternatives & ASIC Flow([slides](./files/lec2-design.pdf)) ([recording]( https://www.youtube.com/watch?v=kYDoNwnFNHY&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=1)) | [Discussion 2 (slides)](./files/discussion_sp24/Discussion2.pdf) ([worksheet](./files/discussion_sp24/disc2.pdf)) ([solutions](./files/discussion_sp24/disc2_solutions.pdf)) | [Lab 1](https://github.com/EECS150/asic-labs-sp24/tree/main)  | [Lab 1](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab1) | [Homework 2](./files/sp24_hw2.pdf) ([solutions](./files/hw_sp24/sp24_hw2_sols.pdf)) |
  |   | 1/24 | Verilog Part 1 ([slides](./files/lec3-verilog1.pdf)) ([recording](https://www.youtube.com/watch?v=BPZKyzTc_Jg&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=2)) | | | | |
  | 3  | 1/29 | Verilog Part 2 ([slides](./files/lec4-verilog2.pdf)) ([recording](https://www.youtube.com/watch?v=MmU6JCUryVU&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=3)) | [Discussion 3 (slides)](./files/discussion_sp24/discussion3.pdf) ([worksheet](./files/discussion_sp24/sp24_disc3.pdf)) ([solutions](./files/discussion_sp24/sp24_disc3_solutions.pdf))  | [Lab 2](https://github.com/EECS150/asic-labs-sp24/tree/main/lab2) | [Lab 2](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab2) | [Homework 3](./files/hw_sp24/hw3_fixed.pdf) |
  |   | 1/31 | FPGA Architecture ([slides](./files/lec5-FPGA.pdf)) ([recording](https://www.youtube.com/watch?v=1tg1A2J1OFA&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=4)) | | | | |
  | 4  | 2/5  | Combinational Logic & Boolean Algebra ([slides](./files/lec6-CL.pdf)) ([recording](https://www.youtube.com/watch?v=6guH6xrGE6o&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=5))| [Discussion 4 (slides)](./files/discussion_sp24/Discussion4.pdf) ([worksheet](./files/discussion_sp24/disc4worksheet.pdf)) ([solutions](./files/discussion_sp24/disc4_solutions.pdf)) | [Lab 3](https://github.com/EECS150/asic-labs-sp24/tree/main/lab3) | [Lab 3](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab3) | [Homework 4](./files/hw_sp24/sp24_hw4_v3.pdf) |
  |    | 2/7  | Finite State Machines 1 ([slides](./files/lec7-CL2-FSM1.pdf)) ([recording](https://www.youtube.com/watch?v=p4mzfNVA3YQ&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=6))| | |  | |
- | 5  | 2/12 | Finite State Machines 2 ([slides](./files/lec8-FSM2.pdf)) | [Discussion 5(slides)](./files/discussion_sp24/sp24_disc5.pdf) ([worksheet](./files/discussion_sp24/sp24_disc5_worksheet_v2.pdf)) ([solutions](./files/discussion_sp24/sp24_disc5_workseet_sols_v2.pdf)) | [Lab 4](https://github.com/EECS150/asic-labs-sp24/tree/main/lab4) | [Lab 4](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab4) | [Homework 5](./files/hw_sp24/hw5_final.pdf) |
- |    | 2/14 | CMOS Circuits 1 ([slides](./files/lec9-CMOS1.pdf)) | | |  | |
- | 6  | 2/19 | Presidents' Day | | Lab 5 | | Homework 6 |
+ | 5  | 2/12 | Finite State Machines 2 ([slides](./files/lec8-FSM2.pdf)) ([recording](https://www.youtube.com/watch?v=Oq_Wxbsiyec&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=7)) | [Discussion 5(slides)](./files/discussion_sp24/sp24_disc5.pdf) ([worksheet](./files/discussion_sp24/sp24_disc5_worksheet_v2.pdf)) ([solutions](./files/discussion_sp24/sp24_disc5_workseet_sols_v2.pdf)) | [Lab 4](https://github.com/EECS150/asic-labs-sp24/tree/main/lab4) | [Lab 4](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab4) | [Homework 5](./files/hw_sp24/hw5_final.pdf) |
+ |    | 2/14 | CMOS Circuits 1 ([slides](./files/lec9-CMOS1.pdf)) ([recording](https://www.youtube.com/watch?v=4XFZ6XsslVQ&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=8))| | |  | |
+ | 6  | 2/19 | Presidents' Day | | [Lab 5](https://github.com/EECS150/asic-labs-sp24/tree/main/lab5) | | Homework 6 |
  |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) | | | | |
  | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) | | Lab 6 | Lab 5 | Homework 7 |
  |    | 2/28 | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | | |
@@ -70,7 +71,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |               | Wed       | 4:30 pm - 6:30 pm   | Cory 111/117 | Dhruv's OH |
  |               | Thurs     | 9:00 am - 11:00 am  | Cory 111/117 | Daniel Endraws |
  |               | Thurs     | 4:00 pm - 6:00 pm   | Cory 111/117 | Kevin Anderson |
- |               | Fri       | 9:00 am - 10 am     | Cory 111/117 | Rohit Kanagal  |
+ |               | Tu        | 7:00 pm - 8:00 pm     | Cory 111/117 | Rohit Kanagal  |
  |               | Fri       | 11:00 am - 12:00 pm | Cory 111/117 | Justin Kalloor |
  |               | Fri       | 12:00 pm - 2:00 pm  | Cory 111/117 | Reuben Thomas |
 
@@ -91,6 +92,7 @@ title:  Introduction to Digital Design and Integrated Circuits
 | ![kevinhe photo](img/kevinhe.jpg){:width="120"} | Kevin He <br> (ASIC Lab) | kevinjhe at berkeley dot edu  |
 | ![rohit photo](img/rohit.jpg){:width="120"} | Rohit Kanagal <br> (FPGA Lab) | rkanagal at berkeley dot edu  |
 | ![reuben photo](img/reuben.jpg){:width="120"} | Reuben Thomas <br> (Reader) | reubenkthomas at berkeley dot edu |
+| ![Allen photo](img/allen.jpeg){:width="120"} | Allen Chen <br> (Reader) | jiyangchen at berkeley dot edu |
 
 ## Resources ##
 - [RISC-V Green Card](./files/verilog/riscvcard.pdf)
