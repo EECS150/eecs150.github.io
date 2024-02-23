@@ -16,7 +16,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  | Week | Date | Lecture Topic | Discussion | ASIC Lab | FPGA Lab | Homework |
  | ---  | ---  | ---           | ---        | ---      | ---      | ---      |
  | 1  | 1/17 | Class Organization & Introduction to Course Content ([slides](./files/lec1-intro.pdf)) ([recording]( https://drive.google.com/file/d/1sKchXxILDCqcwwVqbPjQgiYwcleyVbGm/view?usp=sharing)) | [Discussion 1 (slides)](./files/discussion1_slides.pdf) ([worksheet](./files/discussion1.pdf)) | No Lab | No Lab | [Homework 1](./files/hw_sp24/hw1.pdf) ([Solution](./files/hw_sp24/hw1_sol.pdf)) |
- | 2  | 1/22 | Design Alternatives & ASIC Flow([slides](./files/lec2-design.pdf)) ([recording]( https://www.youtube.com/watch?v=kYDoNwnFNHY&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=1)) | [Discussion 2 (slides)](./files/discussion_sp24/Discussion2.pdf) ([worksheet](./files/discussion_sp24/disc2.pdf)) ([solutions](./files/discussion_sp24/disc2_solutions.pdf)) | [Lab 1](https://github.com/EECS150/asic-labs-sp24/tree/main)  | [Lab 1](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab1) | [Homework 2](./files/sp24_hw2.pdf) |
+ | 2  | 1/22 | Design Alternatives & ASIC Flow([slides](./files/lec2-design.pdf)) ([recording]( https://www.youtube.com/watch?v=kYDoNwnFNHY&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=1)) | [Discussion 2 (slides)](./files/discussion_sp24/Discussion2.pdf) ([worksheet](./files/discussion_sp24/disc2.pdf)) ([solutions](./files/discussion_sp24/disc2_solutions.pdf)) | [Lab 1](https://github.com/EECS150/asic-labs-sp24/tree/main)  | [Lab 1](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab1) | [Homework 2](./files/sp24_hw2.pdf) ([solutions](./files/hw_sp24/sp24_hw2_sols.pdf)) |
  |   | 1/24 | Verilog Part 1 ([slides](./files/lec3-verilog1.pdf)) ([recording](https://www.youtube.com/watch?v=BPZKyzTc_Jg&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=2)) | | | | |
  | 3  | 1/29 | Verilog Part 2 ([slides](./files/lec4-verilog2.pdf)) ([recording](https://www.youtube.com/watch?v=MmU6JCUryVU&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=3)) | [Discussion 3 (slides)](./files/discussion_sp24/discussion3.pdf) ([worksheet](./files/discussion_sp24/sp24_disc3.pdf)) ([solutions](./files/discussion_sp24/sp24_disc3_solutions.pdf))  | [Lab 2](https://github.com/EECS150/asic-labs-sp24/tree/main/lab2) | [Lab 2](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab2) | [Homework 3](./files/hw_sp24/hw3_fixed.pdf) |
  |   | 1/31 | FPGA Architecture ([slides](./files/lec5-FPGA.pdf)) ([recording](https://www.youtube.com/watch?v=1tg1A2J1OFA&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=4)) | | | | |
@@ -92,6 +92,7 @@ title:  Introduction to Digital Design and Integrated Circuits
 | ![kevinhe photo](img/kevinhe.jpg){:width="120"} | Kevin He <br> (ASIC Lab) | kevinjhe at berkeley dot edu  |
 | ![rohit photo](img/rohit.jpg){:width="120"} | Rohit Kanagal <br> (FPGA Lab) | rkanagal at berkeley dot edu  |
 | ![reuben photo](img/reuben.jpg){:width="120"} | Reuben Thomas <br> (Reader) | reubenkthomas at berkeley dot edu |
+| ![Allen photo](img/allen.jpeg){:width="120"} | Allen Chen <br> (Reader) | jiyangchen at berkeley dot edu |
 
 ## Resources ##
 - [RISC-V Green Card](./files/verilog/riscvcard.pdf)
