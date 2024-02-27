@@ -26,7 +26,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |    | 2/14 | CMOS Circuits 1 ([slides](./files/lec9-CMOS1.pdf)) ([recording](https://www.youtube.com/watch?v=4XFZ6XsslVQ&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=8))| | |  | |
  | 6  | 2/19 | Presidents' Day | [Discussion 6(slides)](./files/discussion_sp24/Discussion6.pdf) ([worksheet](./files/discussion_sp24/disc6.pdf)) ([solutions](./files/discussion_sp24/disc6_sol.pdf))  | [Lab 5](https://github.com/EECS150/asic-labs-sp24/tree/main/lab5) | | [Homework 6](./files/hw_sp24/sp24_hw6.pdf) |
  |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) | | | | |
- | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) | | Lab 6 | [Lab 5](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab5) | Homework 7 |
+ | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) | | [Lab 6](https://github.com/EECS150/asic-labs-sp24/tree/main/lab6) | [Lab 5](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab5) | Homework 7 |
  |    | 2/28 | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | | |
  | 8  | 3/4  | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | | Lab 6 | |
  |   | 3/6  | RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf)) | | | | |
@@ -101,6 +101,10 @@ title:  Introduction to Digital Design and Integrated Circuits
 - [EECS151 Register Library](./files/lib/EECS151.v)
 - [Online Verilog Simulator (edaplayground)](https://www.edaplayground.com/)
 - [LTspice Tutorial](./files/spice_tutorial.pdf)
+- [Verilog FSM Review](./files/verilog/verilog_fsm.pdf)
+- [Ready-Valid Interface](./files/verilog/ready_valid_interface.pdf)
+- [Always @ Blocks](./files/verilog/always_at_blocks.pdf)
+- [John W 61C Verilog Review](./files/verilog/verilog_review_61C_2007.pdf)
 
 ## Previous Exams ##
 - Spring 2023 midterm ([blank](./files/exam1.pdf)) ([solution](./files/exam1_solution.pdf))
