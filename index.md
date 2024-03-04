@@ -27,12 +27,12 @@ title:  Introduction to Digital Design and Integrated Circuits
  | 6  | 2/19 | Presidents' Day | [Discussion 6(slides)](./files/discussion_sp24/Discussion6.pdf) ([worksheet](./files/discussion_sp24/disc6.pdf))  ([solutions](./files/discussion_sp24/disc6_sol.pdf))  [(recording)](https://drive.google.com/file/d/1Rg7tskI73kB9M0T6JEBj4Ze0cX_CMMsg/view?usp=sharing) | [Lab 5](https://github.com/EECS150/asic-labs-sp24/tree/main/lab5) | | [Homework 6](./files/hw_sp24/sp24_hw6.pdf) |
  |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) ([recording](https://www.youtube.com/watch?v=F6CSiQkfv5A&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=9))| | | | |
  | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) ([recording](https://www.youtube.com/watch?v=XEgCkUTFFVg&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=10)) | [Discussion 7(slides)](./files/discussion_sp24/Discussion7.pdf) ([worksheet](./files/discussion_sp24/disc7.pdf)) ([solutions](./files/discussion_sp24/disc7_sol.pdf)) | [Lab 6](https://github.com/EECS150/asic-labs-sp24/tree/main/lab6) | [Lab 5](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab5) | Homework 7 |
- |    | 2/28 | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | | |
- | 8  | 3/4  | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | | [Lab 6](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab6) | |
- |   | 3/6  | RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf)) | | | | |
+ |    | 2/28 |  Circuit Timing Part 1 Cont. ([slides](./files/lec11-timing1.pdf)) ([recording](https://www.youtube.com/watch?v=wB2VXs_Gfqg&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=11)) | | | | |
+ | 8  | 3/4  | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | [Lab 6](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab6) | |
+ |   | 3/6  | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | | | |
  | 9  | 3/11 | Midterm Review ([slides](./files/lec14-review.pdf)) | | ASIC Project | FPGA Project | Homework 8 |
  |   | 3/12 | Midterm 7-10pm | | | | |
- |   | 3/13 | TBD            | | | | |
+ |   | 3/13 |  RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf))  | | | | |
  | 10 | 3/18 | RISC-V Part 3  |  | Checkpoint 1 | Checkpoint 1 | Homework 9 |
  |    | 3/20 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | | | |
  | 11 | 3/25 | Spring Recess | |  | | |
