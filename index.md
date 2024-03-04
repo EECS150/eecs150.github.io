@@ -28,7 +28,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) ([recording](https://www.youtube.com/watch?v=F6CSiQkfv5A&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=9))| | | | |
  | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) ([recording](https://www.youtube.com/watch?v=XEgCkUTFFVg&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=10)) | [Discussion 7(slides)](./files/discussion_sp24/Discussion7.pdf) ([worksheet](./files/discussion_sp24/disc7.pdf)) ([solutions](./files/discussion_sp24/disc7_sol.pdf)) | [Lab 6](https://github.com/EECS150/asic-labs-sp24/tree/main/lab6) | [Lab 5](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab5) | Homework 7 |
  |    | 2/28 | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | | |
- | 8  | 3/4  | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | | Lab 6 | |
+ | 8  | 3/4  | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | | [Lab 6](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab6) | |
  |   | 3/6  | RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf)) | | | | |
  | 9  | 3/11 | Midterm Review ([slides](./files/lec14-review.pdf)) | | ASIC Project | FPGA Project | Homework 8 |
  |   | 3/12 | Midterm 7-10pm | | | | |
