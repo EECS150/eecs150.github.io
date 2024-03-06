@@ -28,7 +28,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |    | 2/21 | CMOS Circuits 2 ([slides](./files/lec10-CMOS2.pdf)) ([recording](https://www.youtube.com/watch?v=F6CSiQkfv5A&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=9))| | | | |
  | 7  | 2/26 |  Circuit Timing Part 1 ([slides](./files/lec11-timing1.pdf)) ([recording](https://www.youtube.com/watch?v=XEgCkUTFFVg&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=10)) | [Discussion 7(slides)](./files/discussion_sp24/Discussion7.pdf) ([worksheet](./files/discussion_sp24/disc7.pdf)) ([solutions](./files/discussion_sp24/disc7_sol.pdf)) ([recording](https://www.youtube.com/watch?v=r8jhicLYqvM&list=PLnocShPlK-FvGXs1cqaM9U0mZCzL8W8rJ&index=4)) | [Lab 6](https://github.com/EECS150/asic-labs-sp24/tree/main/lab6) | [Lab 5](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab5) | Homework 7 |
  |    | 2/28 |  Circuit Timing Part 1 Cont. ([slides](./files/lec11-timing1.pdf)) ([recording](https://www.youtube.com/watch?v=wB2VXs_Gfqg&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=11)) | | | | |
- | 8  | 3/4  | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) | | | [Lab 6](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab6) | |
+ | 8  | 3/4  | Circuit Timing Part 2 ([slides](./files/lec12-timing2.pdf)) ([recording](https://www.youtube.com/watch?v=VIPSmdKp7Ck&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=12))| | | [Lab 6](https://github.com/EECS150/fpga_labs_sp24/tree/main/lab6) | |
  |   | 3/6  | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) | | | | |
  | 9  | 3/11 | Midterm Review ([slides](./files/lec14-review.pdf)) | | ASIC Project | FPGA Project | Homework 8 |
  |   | 3/12 | Midterm 7-10pm | | | | |
