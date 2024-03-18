@@ -33,12 +33,12 @@ title:  Introduction to Digital Design and Integrated Circuits
  | 9  | 3/11 | Midterm Review ([slides](./files/lec14-review.pdf)) ([recording](https://www.youtube.com/watch?v=t8b1J9fsjok&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=14))| [Discussion 9(slides)](./files/discussion_sp24/Discussion9.pdf)  | [ASIC Project](https://github.com/EECS150/asic-project-sp24/blob/main/overview.md) | FPGA Project | Homework 8 |
  |   | 3/12 | Midterm 7-10pm | | | | |
  |   | 3/13 |  RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf))  | | | | |
- | 10 | 3/18 | RISC-V Part 3  |  | Checkpoint 1 | Checkpoint 1 | Homework 9 |
- |    | 3/20 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | | | |
+ | 10 | 3/18 | Memory Blocks 1 ([slides](./files/lec16-mem1.pdf))  |  | Checkpoint 1 | Checkpoint 1 | Homework 9 |
+ |    | 3/20 | Memory Blocks 2 ([slides](./files/lec19-mem2.pdf)) | | | | |
  | 11 | 3/25 | Spring Recess | |  | | |
  |    | 3/27 | Spring Recess | | | | |
- | 12 | 4/1 |  Memory Blocks 1 ([slides](./files/lec17-mem1.pdf))| | Checkpoint 2a | Checkpoint 2a| Homework 10 |
- |   | 4/3  |  Memory Blocks 2 ([slides](./files/lec19-mem2.pdf)) | |  |  | |
+ | 12 | 4/1 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | Checkpoint 2a | Checkpoint 2a| Homework 10 |
+ |   | 4/3  |  | |  |  | |
  | 13 | 4/8  | Parallelism ([slides](./files/lec20-par.pdf)) | | Checkpoint 2b | Checkpoint 2b | Homework 11 |
  |    | 4/10 | List Processor Example Design ([slides](./files/lec21-listproc.pdf)) | | | | |
  | 14 | 4/15 | Adders ([slides](./files/lec23-adders.pdf)) | |  |  | Homework 12 |
