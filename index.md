@@ -38,7 +38,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  | 11 | 3/25 | Spring Recess | |  | | |
  |    | 3/27 | Spring Recess | | | | |
  | 12 | 4/1 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | Checkpoint 2a | Checkpoint 2a| Homework 10 |
- |   | 4/3  |  | |  |  | |
+ |   | 4/3  | TBD | |  |  | |
  | 13 | 4/8  | Parallelism ([slides](./files/lec20-par.pdf)) | | Checkpoint 2b | Checkpoint 2b | Homework 11 |
  |    | 4/10 | List Processor Example Design ([slides](./files/lec21-listproc.pdf)) | | | | |
  | 14 | 4/15 | Adders ([slides](./files/lec23-adders.pdf)) | |  |  | Homework 12 |
