@@ -34,7 +34,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |   | 3/12 | Midterm 7-10pm | | | | |
  |   | 3/13 |  RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf))  | | | | |
  | 10 | 3/18 | Memory Blocks 1 ([slides](./files/lec16-mem1.pdf))  |  | Checkpoint 1 | Checkpoint 1 | Homework 9 |
- |    | 3/20 | Memory Blocks 2 ([slides](./files/lec19-mem2.pdf)) | | | | |
+ |    | 3/20 | Memory Blocks 2 ([slides](./files/lec17-mem2.pdf)) | | | | |
  | 11 | 3/25 | Spring Recess | |  | | |
  |    | 3/27 | Spring Recess | | | | |
  | 12 | 4/1 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | Checkpoint 2a | Checkpoint 2a| Homework 10 |
