@@ -32,14 +32,14 @@ title:  Introduction to Digital Design and Integrated Circuits
  |   | 3/6  | RISC-V Microarchitecture and Implementation ([slides](./files/lec13-riscv1.pdf)) ([recording](https://www.youtube.com/watch?v=SMLuPkEXnEM&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=13))| | | | |
  | 9  | 3/11 | Midterm Review ([slides](./files/lec14-review.pdf)) ([recording](https://www.youtube.com/watch?v=t8b1J9fsjok&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=14))| [Discussion 9(slides)](./files/discussion_sp24/Discussion9.pdf)  | [ASIC Project](https://github.com/EECS150/asic-project-sp24/blob/main/overview.md) | FPGA Project | Homework 8 |
  |   | 3/12 | Midterm 7-10pm | | | | |
- |   | 3/13 |  RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf))  | | | | |
- | 10 | 3/18 | Memory Blocks 1 ([slides](./files/lec16-mem1.pdf))  |  | Checkpoint 1 | Checkpoint 1 | Homework 9 |
- |    | 3/20 | Memory Blocks 2 ([slides](./files/lec17-mem2.pdf)) | | | | |
- | 11 | 3/25 | Spring Recess | |  | | |
- |    | 3/27 | Spring Recess | | | | |
- | 12 | 4/1 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | Checkpoint 2a | Checkpoint 2a| Homework 10 |
+ |   | 3/13 |  RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf)) ([recording](https://www.youtube.com/watch?v=FNPZTJfCh5E&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=15)) | | | | |
+ | 10 | 3/18 | Memory Blocks 1 ([slides](./files/lec16-mem1.pdf))([recording](https://www.youtube.com/watch?v=LtaFJFhpW6A&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=16)) |  | [Checkpoint 1](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint1.md) | Checkpoint 1 | Homework 9 |
+ |    | 3/20 | Memory Blocks 2 ([slides](./files/lec17-mem2.pdf)) ([recording](https://www.youtube.com/watch?v=SfE_nLAp9Jo&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=17)) | | | | |
+ | 11 | 3/25 | Spring Break | |  | | |
+ |    | 3/27 | Spring Break | | | | |
+ | 12 | 4/1 | Power and Energy ([slides](./files/lec22-energy.pdf)) | | | Checkpoint 2a| Homework 10 |
  |   | 4/3  | TBD | |  |  | |
- | 13 | 4/8  | Parallelism ([slides](./files/lec20-par.pdf)) | | Checkpoint 2b | Checkpoint 2b | Homework 11 |
+ | 13 | 4/8  | Parallelism ([slides](./files/lec20-par.pdf)) | | [Checkpoint 2](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint2.md) | Checkpoint 2b | Homework 11 |
  |    | 4/10 | List Processor Example Design ([slides](./files/lec21-listproc.pdf)) | | | | |
  | 14 | 4/15 | Adders ([slides](./files/lec23-adders.pdf)) | |  |  | Homework 12 |
  |    | 4/17 | Multipliers & Shifters ([slides](./files/lec24-mult-shift.pdf))  | | | | |
