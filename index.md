@@ -33,7 +33,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  | 9  | 3/11 | Midterm Review ([slides](./files/lec14-review.pdf)) ([recording](https://www.youtube.com/watch?v=t8b1J9fsjok&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=14))| [Discussion 9(slides)](./files/discussion_sp24/Discussion9.pdf)  | [ASIC Project](https://github.com/EECS150/asic-project-sp24/blob/main/overview.md) | FPGA Project | Homework 8 |
  |   | 3/12 | Midterm 7-10pm | | | | |
  |   | 3/13 |  RISC-V Part 2 ([slides](./files/lec15-riscv2.pdf)) ([recording](https://www.youtube.com/watch?v=FNPZTJfCh5E&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=15)) | | | | |
- | 10 | 3/18 | Memory Blocks 1 ([slides](./files/lec16-mem1.pdf))([recording](https://www.youtube.com/watch?v=LtaFJFhpW6A&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=16)) |  | [Checkpoint 1](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint1.md) | Checkpoint 1 | Homework 9 |
+ | 10 | 3/18 | Memory Blocks 1 ([slides](./files/lec16-mem1.pdf))([recording](https://www.youtube.com/watch?v=LtaFJFhpW6A&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=16)) | [Discussion 10(slides)](./files/discussion_sp24/Discussion10.pdf)  | [Checkpoint 1](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint1.md) | Checkpoint 1 | Homework 9 |
  |    | 3/20 | Memory Blocks 2 ([slides](./files/lec17-mem2.pdf)) ([recording](https://www.youtube.com/watch?v=SfE_nLAp9Jo&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=17)) | | | | |
  | 11 | 3/25 | Spring Break | |  | | |
  |    | 3/27 | Spring Break | | | | |
