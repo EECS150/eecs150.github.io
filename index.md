@@ -37,8 +37,8 @@ title:  Introduction to Digital Design and Integrated Circuits
  |    | 3/20 | Memory Blocks 2 ([slides](./files/lec17-mem2.pdf)) ([recording](https://www.youtube.com/watch?v=SfE_nLAp9Jo&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=17)) | | | | |
  | 11 | 3/25 | Spring Break | |  | | |
  |    | 3/27 | Spring Break | | | | |
- | 12 | 4/1 | Memory Blocks 2 ([slides](./files/lec17-mem2.pdf)) | | | Checkpoint 2a| Homework 9 |
- |   | 4/3  | Power and Energy ([slides](./files/lec22-energy.pdf)) | |  |  | |
+ | 12 | 4/1 | Memory Blocks 2 ([slides](./files/lec17-mem2.pdf)) ([recording](https://www.youtube.com/watch?v=-6_gqj4kNT8&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=18))| | | Checkpoint 2a| Homework 9 |
+ |   | 4/3  | Power and Energy ([slides](./files/lec18-pwr.pdf)) | |  |  | |
  | 13 | 4/8  | Parallelism ([slides](./files/lec20-par.pdf)) | | [Checkpoint 2](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint2.md) | Checkpoint 2b | Homework 10 |
  |    | 4/10 | List Processor Example Design ([slides](./files/lec21-listproc.pdf)) | | | | |
  | 14 | 4/15 | Adders ([slides](./files/lec23-adders.pdf)) | |  |  | Homework 11 |
