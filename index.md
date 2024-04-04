@@ -38,12 +38,12 @@ title:  Introduction to Digital Design and Integrated Circuits
  | 11 | 3/25 | Spring Break | |  | | |
  |    | 3/27 | Spring Break | | | | |
  | 12 | 4/1 | Memory Blocks 2 ([slides](./files/lec17-mem2.pdf)) ([recording](https://www.youtube.com/watch?v=-6_gqj4kNT8&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=18))| | | Checkpoint 2a| Homework 9 |
- |   | 4/3  | Power and Energy ([slides](./files/lec18-pwr.pdf)) | |  |  | |
- | 13 | 4/8  | Parallelism ([slides](./files/lec20-par.pdf)) | | [Checkpoint 2](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint2.md) | Checkpoint 2b | Homework 10 |
+ |   | 4/3  | Power and Energy ([slides](./files/lec18-pwr.pdf)) ([recording](https://www.youtube.com/watch?v=Y06amtVxLwU&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=19))| |  |  | |
+ | 13 | 4/8  | Parallelism ([slides](./files/lec20-par.pdf))  | | [Checkpoint 2](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint2.md) | Checkpoint 2b | Homework 10 |
  |    | 4/10 | List Processor Example Design ([slides](./files/lec21-listproc.pdf)) | | | | |
  | 14 | 4/15 | Adders ([slides](./files/lec23-adders.pdf)) | |  |  | Homework 11 |
  |    | 4/17 | Multipliers & Shifters ([slides](./files/lec24-mult-shift.pdf))  | | | | |
- | 15 | 4/22 | Clock and Power Distribution ([slides](./files/lec25-clk-pkg-pwr.pdf)) | | Checkpoint 3 | Checkpoint 3 | Homework 12 |
+ | 15 | 4/22 | Clock and Power Distribution ([slides](./files/lec25-clk-pkg-pwr.pdf)) | | [Checkpoint 3](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint3.md) | Checkpoint 3 | Homework 12 |
  |    | 4/24 | Wrap-up and Exam Review ([slides](./files/lec26-wrapup.pdf)) | | | | |
  | 16 | 4/29  | RRR No Lecture | | | | |
  |    | 5/1  | RRR No Lecture | | Final Checkoff (Report due midnight 5/6) | | |
