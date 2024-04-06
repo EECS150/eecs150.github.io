@@ -46,8 +46,8 @@ title:  Introduction to Digital Design and Integrated Circuits
  | 15 | 4/22 | Clock and Power Distribution ([slides](./files/lec25-clk-pkg-pwr.pdf)) | | [Checkpoint 3](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint3.md) | Checkpoint 3 | Homework 12 |
  |    | 4/24 | Wrap-up and Exam Review ([slides](./files/lec26-wrapup.pdf)) | | | | |
  | 16 | 4/29  | RRR No Lecture | | | | |
- |    | 5/1  | RRR No Lecture | | [Final Checkoff](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint4.md) (Report due midnight 5/8) | | |
- | FINAL | 5/7 |    No Class - Final Exam 11:30A - 2:30P
+ |    | 5/1  | RRR No Lecture | | [Final Checkoff](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint4.md)| | |
+ | FINAL | 5/7 |   Final Exam 11:30A - 2:30P | | [Report](https://github.com/EECS150/asic-project-sp24/blob/main/final.md)  due midnight 5/8
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&title=EECS%20151%20Calendar&mode=WEEK&src=Y182YTRkN2M4MjNlZWYxMGNlMThhNWMxODZiNjg1MjRhYzYwNGI1ZDFmZmZhMTQ5NmRlNDUwOWUxYTNmNTg2YjBmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18wNzVhMzZkOWYzNDI3OTE2OTI1N2Q5ZjNkNjcyNjliMTNmNWNkMjVkMjg4MzE4MTZkZTdlZWNjOWU4OTg2ZTkyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18xMDE5Y2FhNzY4NjgzMjJiOTMzYTc1YjRkNjI2ZmIyOTQwNjZmMThhNmEyMmEyNGY0YzYzZDU5MWQwNWU2MjNlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19kNjZlODNiNjc2NzI5MjM5NjcxM2E4ZmVkM2RkZmNiNDQ1MDk2MzdiYzEzZmFmMDMyYTJkYzQ0ZDlkNTk4MzIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y183OWZlYzMwMTI0OWZmNThjZGZlMTQ5MjJlMWQ0NWM5YzI2NGE3YzI3Y2M5ODk3YWQ3OGNiNWE0MjZiYzFjYjQ1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342&color=%23B39DDB&color=%23E67C73&color=%23F6BF26&color=%23039BE5" style="border:solid 1px #777; width:80%" height="600"></iframe>
 
