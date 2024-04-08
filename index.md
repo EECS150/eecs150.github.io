@@ -43,7 +43,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |    | 4/10 | List Processor Example Design ([slides](./files/lec21-listproc.pdf)) | | | | |
  | 14 | 4/15 | Adders ([slides](./files/lec23-adders.pdf)) | |  |  | Homework 11 |
  |    | 4/17 | Multipliers & Shifters ([slides](./files/lec24-mult-shift.pdf))  | | | | |
- | 15 | 4/22 | Clock and Power Distribution ([slides](./files/lec25-clk-pkg-pwr.pdf)) | | [Checkpoint 3](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint3.md) | Checkpoint 3 | Homework 12 |
+ | 15 | 4/22 | Guest Lecture: Hardware Verification | | [Checkpoint 3](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint3.md) | Checkpoint 3 | Homework 12 |
  |    | 4/24 | Wrap-up and Exam Review ([slides](./files/lec26-wrapup.pdf)) | | | | |
  | 16 | 4/29  | RRR No Lecture | | | | |
  |    | 5/1  | RRR No Lecture | | [Final Checkoff](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint4.md)| | |
