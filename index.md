@@ -41,7 +41,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  |   | 4/3  | Power and Energy ([slides](./files/lec18-pwr.pdf)) ([recording](https://www.youtube.com/watch?v=Y06amtVxLwU&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=19))| |  |  | |
  | 13 | 4/8  | Parallelism ([slides](./files/lec19-par.pdf)) ([recording](https://www.youtube.com/watch?v=sJKZ0kbl58U&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=20)) | [Discussion 12(slides)](./files/discussion_sp24/Discussion12.pdf) | [Checkpoint 2](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint2.md) | Checkpoint 2b | [Homework 10](./files/hw_sp24/hw10_updated.pdf) |
  |    | 4/10 | List Processor Example Design ([slides](./files/lec20-listproc.pdf)) ([recording](https://www.youtube.com/watch?v=wVFvEUQgEQM&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=21))| | | | |
- | 14 | 4/15 | Adders ([slides](./files/lec21-adders.pdf)) ([recording](https://www.youtube.com/watch?v=5bvrrk6k__U&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=22)) | |  |  | Homework 11 |
+ | 14 | 4/15 | Adders ([slides](./files/lec21-adders.pdf)) ([recording](https://www.youtube.com/watch?v=5bvrrk6k__U&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=22)) | [Discussion 13(slides)](./files/discussion_sp24/Discussion13.pdf) |  |  | Homework 11 |
  |    | 4/17 | Multipliers & Shifters ([slides](./files/lec22-mult-shift.pdf)) ([recording](https://www.youtube.com/watch?v=MVWRQluRtds&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=23)) | | | | |
  | 15 | 4/22 | Guest Lecture: Hardware Verification | | [Checkpoint 3](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint3.md) | Checkpoint 3 | Homework 12 |
  |    | 4/24 | Wrap-up and Exam Review ([slides](./files/lec26-wrapup.pdf)) | | | | |
