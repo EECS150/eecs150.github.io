@@ -44,7 +44,7 @@ title:  Introduction to Digital Design and Integrated Circuits
  | 14 | 4/15 | Adders ([slides](./files/lec21-adders.pdf)) ([recording](https://www.youtube.com/watch?v=5bvrrk6k__U&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=22)) | [Discussion 13(slides)](./files/discussion_sp24/Discussion13.pdf) |  |  | [Homework 11](./files/hw_sp24/sp24_hw11.pdf) |
  |    | 4/17 | Multipliers & Shifters ([slides](./files/lec22-mult-shift.pdf)) ([recording](https://www.youtube.com/watch?v=MVWRQluRtds&list=PLnocShPlK-Fs5kiCliipArBuda3Mv-ZwM&index=23)) | | | | |
  | 15 | 4/22 | Guest Lecture: Hardware Verification | | [Checkpoint 3](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint3.md) | Checkpoint 3 |  |
- |    | 4/24 | Wrap-up and Exam Review ([slides](./files/lec26-wrapup.pdf)) | | | | |
+ |    | 4/24 | Clock and Wrap-up ([slides](./files/lec24-clk-wrapup.pdf)) | | | | |
  | 16 | 4/29  | RRR No Lecture | | | | |
  |    | 5/1  | RRR No Lecture | | [Final Checkoff](https://github.com/EECS150/asic-project-sp24/blob/main/checkpoint4.md)| | |
  | FINAL | 5/7 |   Final Exam 11:30A - 2:30P | | [Report](https://github.com/EECS150/asic-project-sp24/blob/main/final.md)  due midnight 5/8
