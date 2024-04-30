@@ -106,6 +106,7 @@ title:  Introduction to Digital Design and Integrated Circuits
 - [Always @ Blocks](./files/verilog/always_at_blocks.pdf)
 - [John W 61C Verilog Review](./files/verilog/verilog_review_61C_2007.pdf)
 - [Spring 24 Verilog Review](./files/verilog/verilog_review_sp24.pdf)
+- [Final Exam Topics](./files/exams24/exam2-information.pdf)
 
 ## Previous Exams ##
 - Spring 2023 midterm ([blank](./files/exam1.pdf)) ([solution](./files/exam1_solution.pdf))
