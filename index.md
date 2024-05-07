@@ -114,6 +114,7 @@ title:  Introduction to Digital Design and Integrated Circuits
 - Spring 2020 midterm ([blank](./files/sp20_exam1.pdf))([solutions](./files/sp20_exam1_sol.pdf))
 - Spring 2018 midterm 1 ([blank](./files/sp18-mt1-questions.pdf))([solutions](./files/sp18-mt1-solutions.pdf))
 
+- Spring 2023 final ([blank](./files/sp23_exam2.pdf)) ([solutions](files/sp23_exam2_solution.pdf))
 - Spring 2021 final ([blank](./files/sp21_final.pdf)) ([partial solutions](./files/sp21_final_sol.pdf))
 - Spring 2020 final ([blank](./files/sp20_final.pdf)) ([solutions](./files/sp20_final_sol.pdf))
 - Spring 2019 final ([blank](./files/sp19_final.pdf))
